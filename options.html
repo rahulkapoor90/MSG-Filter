@@ -1,0 +1,37 @@
+<!--
+KRK Filter - Options Page
+
+Allows user to adjust filtration settings.
+ --> 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Options for KRK Filter</title>
+	<script type="text/javascript" src="js/analytics.js"></script>
+</head>
+<body>
+	<div id="container">
+		<div id="filtersettings" class="contentContainer">
+			<h2>Filter Sensitivity</h2>
+		</div>
+    <div id="options">
+      <select id="selectedFilter">
+        <option value="mild">Mild</option>
+        <option value="aggro">Aggressive</option>
+        <option value="vindictive">Vindictive</option>
+      </select>
+      <div id="saveMessage"></div>
+    </div>
+		<div id="stats" class="contentContainer">
+			<h4>Pages filtered: <span id="pagecount"></span></h4>
+			<h4>KRK's removed: <span id="trumpcount"></span></h4>
+		</div>
+		<div id="footer">
+			<p>This work is licensed under <a
+        href="http://www.gnu.org/licenses/gpl.html">GPLv3</a>. Created by <a
+      href="http://www.github.com/rahulkapoor90">Rahul Kapoor</a>.</p>
+		</div>
+	</div>
+	<script type="text/javascript" src="js/options.js"></script>
+</body>
+</html>
