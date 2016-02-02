@@ -1,10 +1,10 @@
-# KRK-Filter
+# MSG-Filter
 
-Unfortunately not everyone hates KRK but most of the sensible people do hate him, and its justified because that shit-head has no respect of women.
+Unfortunately not everyone hates Saint Gurmeet singh but most of the sensible people do hate him, and its justified because that shit-head is the most annoying thing ever.
 
-This Chrome extension will identify parts of a web page likely to contain KRK and erase them from the Internet. 
+This Chrome extension will identify parts of a web page likely to contain MSG aka Gurmeet singh ji and erase them from the Internet.
 
-Share with your friends and eliminate this so called celebrity.
+Share with your friends and eliminate this so called saint.
 
 Installation (for Users)
 -------------------------
@@ -14,13 +14,13 @@ It will soon be available in Chrome Web Store.
 
 Installation (for Developers)
 -------------------------
-Want to hack on the SRK Filter?  Sweet!
+Want to hack on the MSG Filter?  Sweet!
 
 Here's a howto to get the source of the Chrome Extension running in your environment.
 
 1) Grab latest source
 <pre>
-git clone https://github.com/rahulkapoor90/KRK-Filter
+git clone https://github.com/rahulkapoor90/MSG-Filter
 </pre>
 
 2) Enable Chrome Extension in your Chrome install
